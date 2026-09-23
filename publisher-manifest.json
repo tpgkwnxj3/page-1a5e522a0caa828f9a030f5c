@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "fe9ac8d516cec028be82e7f3",
+  "owner": "tpgkwnxj3",
+  "repo": "page-1a5e522a0caa828f9a030f5c",
+  "title": "地瓜云",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "1a5e522a0caa828f9a030f5c",
+      "a": "地瓜云",
+      "b": "稳定全球clash加速器",
+      "entity": "地瓜云",
+      "brand": "地瓜云",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "2a591f3eb9240ad540d210c2f0ebf4bac69119933e1176593e45d13d896bbd2d",
+      "content": {
+        "primary_entity": "地瓜云",
+        "keyword1": "地瓜云",
+        "keyword2": "稳定全球clash加速器",
+        "content": {
+          "AI_CLIENTS_INTRO": "地瓜云以 Clash 客户端为主，Windows、macOS、Android 与 iOS 都有对应客户端。按设备系统下载匹配版本，导入订阅后再开启代理。",
+          "AI_CLIENTS_TITLE": "选择客户端",
+          "AI_CLOSING_TEXT": "按设备数量和流量选出合适档位，再打开 Clash 客户端导入订阅使用。",
+          "AI_CLOSING_TITLE": "选好套餐再开始",
+          "AI_DESCRIPTION": "，地瓜云提供基础版、旗舰版与团队版三档方案，月付最低 ¥15 起，年付更划算。旗舰版配备 IPLC 专线优化与 5 台设备在线，团队版支持 20 台设备和 1000GB 流量，适合小组共享。选择时先看设备数量与流量需求，再按 Clash 客户端文档导入订阅即可。",
+          "AI_FEATURES_INTRO": "从流量、设备数和线路类型三个维度判断，哪一档地瓜云方案更适合日常使用。",
+          "AI_FEATURES_TITLE": "套餐选择要点",
+          "AI_FEATURE_TEXT_1": "基础版每月 100GB，旗舰版 300GB，团队版 1000GB。轻度浏览选基础版，看剧与多任务选旗舰版，小组或家庭共享考虑团队版。",
+          "AI_FEATURE_TEXT_2": "基础版支持 3 台设备，旗舰版 5 台，团队版 20 台。手机、平板、电脑同时在线时，按实际设备数量往上选一档更从容。",
+          "AI_FEATURE_TEXT_3": "月付 ¥15 起适合短期试用，年付基础版 ¥150、旗舰版 ¥350、团队版 ¥850。长期使用按年付，单月成本更低，也不必频繁续费。",
+          "AI_FEATURE_TITLE_1": "按流量选档",
+          "AI_FEATURE_TITLE_2": "看在线设备数",
+          "AI_FEATURE_TITLE_3": "订阅周期安排",
+          "AI_GUIDE_INTRO": "先选定套餐，再按设备确认适配客户端，最后导入订阅完成配置。",
+          "AI_GUIDE_TITLE": "三步开始使用",
+          "AI_HERO_INTRO": "地瓜云是面向跨境访问场景的加速服务，按设备数量与流量划分基础版、旗舰版与团队版。三档套餐在流量额度、在线设备数和节点线路上各有侧重，可从月付或年付中挑选适合自己的组合。",
+          "AI_HERO_SUBTITLE": "按设备与流量挑地瓜云套餐",
+          "AI_HIGHLIGHT_1": "月付 ¥15 起，年付更省",
+          "AI_HIGHLIGHT_2": "三档方案灵活选",
+          "AI_HIGHLIGHT_3": "按设备与流量匹配套餐",
+          "AI_PLANS_INTRO": "基础版月付 ¥15、年付 ¥150；旗舰版月付 ¥35、年付 ¥350，含 IPLC 专线；团队版月付 ¥85、年付 ¥850，支持 20 台设备。按设备数和流量在档位之间取舍即可。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "根据常用设备数量和每月流量，在基础版、旗舰版、团队版之间选定一档，并确认月付或年付周期。",
+          "AI_STEP_TEXT_2": "查看所用设备的系统和版本，确认可以安装对应的 Clash 客户端，避免购买后设备不匹配。",
+          "AI_STEP_TEXT_3": "获取订阅链接后，按客户端文档粘贴到订阅或配置项中，更新节点后即可开始使用。",
+          "AI_STEP_TITLE_1": "选择套餐",
+          "AI_STEP_TITLE_2": "核对适配要求",
+          "AI_STEP_TITLE_3": "导入订阅配置",
+          "AI_VISUAL_TITLE": "地瓜云套餐速览",
+          "AI_FAQ_TITLE": "常见问题",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "地瓜云套餐价格分别是多少？",
+          "AI_FAQ_ANSWER_1": "基础版¥15/月，旗舰版¥35/月，团队版¥85/月。按年付分别为¥150/年、¥350/年与¥850/年，年付方案可降低月均支出。",
+          "AI_FAQ_QUESTION_2": "如何把地瓜云订阅导入到客户端？",
+          "AI_FAQ_ANSWER_2": "在对应客户端中找到订阅或配置导入入口，粘贴订阅地址并保存，随后更新节点列表即可。不同客户端菜单位置略有差异，可参考其使用文档。",
+          "AI_FAQ_QUESTION_3": "一个账号可以同时连接几台设备？",
+          "AI_FAQ_ANSWER_3": "基础版支持3台设备同时在线，旗舰版为5台，团队版为20台。超出同时在线数量可能导致新设备无法建立连接。",
+          "AI_FAQ_QUESTION_4": "旗舰版和团队版线路有什么区别？",
+          "AI_FAQ_ANSWER_4": "旗舰版使用IPLC专线并支持原生流媒体解锁，适合游戏与影音场景；团队版提供VIP高带宽节点，并支持企业定制路由，适合多人共用。",
+          "AI_FAQ_QUESTION_5": "按月付和按年付怎么选？",
+          "AI_FAQ_ANSWER_5": "短期或流量需求变化较大时可选月付；长期稳定使用且设备数量固定时，年付方案整体成本更低。可先按月付体验，再按需切换年付。"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "xn--yfrt53l1iay3s.com",
+    "host": "xn--yfrt53l1iay3s.com"
+  },
+  "file_hashes": {
+    "index.html": "c8f56fd3ecdd52e2f50d7883dc606e80f263d3b18f7ee512e75ae93ae574e5a8",
+    "sitemap.xml": "8129ad8ff884920127c64983a87e35e72ce5c163f821d3fdefed351646f8b7c3",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "d68db4cbecd19e62be2df4a17a43ec171bfec5bdf602d2877298614776a332eb",
+    "robots.txt": "8345af8ab947d09b3483dad5518c70be8e5383d1368f9d48b8d059e64e45af17",
+    "7b20ed3421a2345ff66251a0d2d55a07.txt": "bb268b4c41906c4787864d9047b7393fe9b36d7d3286fba5ea5befa96b6419db"
+  },
+  "revision": "a8c27dab618d41902ba0ea2aa49de804684e92b2edaaeabffb0778719996069d"
+}
